@@ -1,10 +1,6 @@
 package com.alex.dem;
 
-import Principal.principal;
-import com.alex.dem.model.DadosSerie;
-import com.alex.dem.model.DadosTemporada;
-import com.alex.dem.service.ConsumoAPI;
-import com.alex.dem.service.ConverteDados;
+import com.alex.dem.Principal.principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

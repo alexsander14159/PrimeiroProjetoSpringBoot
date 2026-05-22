@@ -1,4 +1,4 @@
-package Principal;
+package com.alex.dem.Principal;
 
 import com.alex.dem.model.DadosEpisodio;
 import com.alex.dem.model.DadosSerie;
